@@ -6,11 +6,20 @@ A repo dedicated to Luke and Reef's fortnightly programming challenges
 You and your friend Luke are tasked with creating a program that displays pictures of platypuses to users. Your program should allow users to view pictures of platypuses, as well as add and delete pictures from the collection.
 
 ## Points
-Main Challenge: 10 points
-Extension: 5 points
-Bonus 1: 2 points
-Bonus 2: 2 points
-Mini Bonus: 1 point
+Main Challenge:  
+**10 points**
+
+Extension:  
+**5 points**
+
+Bonus 1:  
+**2 points**
+
+Bonus 2:  
+**2 points**
+
+Mini Bonus:  
+**1 point**
 
 ## Main Challenge
 Your program should meet the following requirements:
